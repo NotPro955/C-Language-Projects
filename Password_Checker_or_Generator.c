@@ -151,7 +151,7 @@ int main(){
         Generator();
     }
 
-    if(i==2){
+    else if(i==2){
         printf("\nConditions to be followed: \n");
         printf("    1.Password should have atleast 8 characters\n");
         printf("    2.Password should have aleast 1 digit\n");
