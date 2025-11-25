@@ -6,7 +6,7 @@
 <li>Password Strenght Check and Password Generator</li>
 </ul>
 <h2>How They Work</h2>
-<h3>Linux Shell</h3>
+<h3><strong>Linux Shell</strong></h3>
 <p>The Code will take the User Input which are the command and will split the string into various tokens.</p>
 <p>These tokens are then used in the execute call of C Language. Which checks for the command/tools inside the "bin" directory and execute it accordingly.</p>
 <p>Your might think it easy, but the code is give a headache for beginners like me.</p>
