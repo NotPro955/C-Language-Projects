@@ -12,7 +12,7 @@
 
 <h3><strong>Linux Shell</strong></h3>
 <p>The Code will take the User Input which are the command and will split the string into various tokens. These tokens are then used in the execute call of C Language. Which checks for the command/tools inside the "bin" directory and execute it accordingly.</p>
-<p>Your might think it easy, but the code is give a headache for beginners like me.</p>
+<p>Your might think it easy, but the code is a huge headache for beginners like me.</p>
 
 <h3><strong>Password Strenght Check and Passwoed Generator</strong></h3>
 <p>This Project is can used in two ways:
