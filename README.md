@@ -34,5 +34,5 @@
 
 <h2>How To Run the Programmes</h2>
 <p>Open your Linux Teminal. Enter the Commands as follows:</p>
-'/home/notpro/Pictures/Screenshots/Screenshot From 2026-01-07 12-22-07.png'
-'/home/notpro/Pictures/Screenshots/Screenshot From 2026-01-07 12-22-51.png' 
+<img width="1358" height="41" alt="Screenshot From 2026-01-07 12-22-07" src="https://github.com/user-attachments/assets/ddb1e900-9807-43e2-864e-33d80a680dae" />
+<img width="1358" height="41" alt="Screenshot From 2026-01-07 12-22-51" src="https://github.com/user-attachments/assets/401abc62-1827-4c1f-9a0b-d4d64b37ecc3" />
