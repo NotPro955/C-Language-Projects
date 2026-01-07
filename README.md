@@ -25,7 +25,7 @@
 <h5>Password Strength Check</h5>
 <p>This is used the check how strong the user's password. The Strength will be measured based on:
 <ul>
-  <li>Minimum 8 Characters</li>
+  <li>Minimum 9 Characters</li>
   <li>Atleast 1 Uppercase Letter</li>
   <li>Atleast 1 Lowercase Letter</li>
   <li>Atleast 1 Special Character</li>
