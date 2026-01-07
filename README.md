@@ -21,7 +21,7 @@
   <li>Checking Your Password Strenght</li>
 </ol></p>
 <h5>Generate A Password</h5>
-<p>This is used to generate a Strong Password with a certain lenght the User choses. This will also show the strength of the generated password (Generally Strong/Very Strong ).</p>
+<p>This is used to generate a Strong Password with a certain lenght the User choses. This will also show the strength of the generated password.</p>
 <h5>Password Strength Check</h5>
 <p>This is used the check how strong the user's password. The Strength will be measured based on:
 <ul>
