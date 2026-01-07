@@ -30,4 +30,9 @@
   <li>Atleast 1 Lowercase Letter</li>
   <li>Atleast 1 Special Character</li>
 </ul>
-Based on these the program will give the result out to the user with "Very Strong" as the highest.</p>
+<p>Based on these the program will give the result out to the user with "Very Strong" as the highest.</p>
+
+<h2>How To Run the Programmes</h2>
+<p>Open your Linux Teminal. Enter the Commands as follows:</p>
+'/home/notpro/Pictures/Screenshots/Screenshot From 2026-01-07 12-22-07.png'
+'/home/notpro/Pictures/Screenshots/Screenshot From 2026-01-07 12-22-51.png' 
