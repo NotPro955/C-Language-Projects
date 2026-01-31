@@ -31,9 +31,9 @@
 <h5>Password Strength Check</h5>
 <p>This is used the check how strong the user's password. The Strength will be measured based on:
 <ul>
-  <li>Minimum 9 Characters</li>
-  <li>Atleast 1 Uppercase Letter</li>
-  <li>Atleast 1 Lowercase Letter</li>
-  <li>Atleast 1 Special Character</li>
+  <li>Minimum 9 Characters.</li>
+  <li>Atleast 1 Uppercase Letter.</li>
+  <li>Atleast 1 Lowercase Letter.</li>
+  <li>Atleast 1 Special Character.</li>
 </ul>
 <p>Based on these the program will give the result out to the user with "Very Strong" as the highest.</p>
